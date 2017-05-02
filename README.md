@@ -1,1 +1,3 @@
-# RSAEncryption
+PROJECT TITLE: RSA symmetric encryption 
+ABOUT: RSA is a public key encryption system that remains widely used today.It consists of three main operations: 1) key generation, 2) encryption, and 3) decryption.
+Two different keys are used for encryption and decryption. To send a message to a person, second person encrypts the message with first’s public key.  The encrypted message can be decrypted only with first’s corresponding private key.  Just as its name implies, the public key is meant to be shared, meaning that anyonecan encrypt a message.  However, only someone with knowledge of the matching private key can decrypt the message.  First person does not share his private key with anyone (not even second person). This program takes two prime numbers and a plaintext from the user and encrpts it and decrypts it.
